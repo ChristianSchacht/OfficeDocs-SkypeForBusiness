@@ -36,7 +36,7 @@ Microsoft offers two licenses for meeting room devices that participate in Teams
 
     You can assign up to 25 Microsoft Teams Rooms Basic licenses to Teams Rooms devices in your organization. If you need to license more than 25 devices, those additional licenses need to be Teams Rooms Pro licenses.
 
-A Teams Rooms Basic license can be used to license a single certified Teams Rooms device in a room. If you want to log into more than one device in a room using the same resource account (for example, a Teams Rooms console, a Surface Hub, and a Teams panel), you need to use a Teams Rooms Pro license.
+A Teams Rooms Basic license can be used to license a single certified Teams Rooms device in a room. If you want to log into more than one device in a room using the same resource account (for example, a Surface Hub, and a Teams panel), you need to use a Teams Rooms Pro license.
 
 [!INCLUDE [mtr-user-licensing](../includes/mtr-user-licensing.md)]
 
